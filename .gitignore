@@ -1,0 +1,6 @@
+# Exclude CSS files
+*.css
+
+# Exclude the harveybookercloudresume directory
+harveybookercloudresume/
+
